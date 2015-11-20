@@ -1,3 +1,7 @@
+# rym-scraper-xray
+RateYourMusic Scraper with x-ray.js
+
+## todo
 - scrape list for .album
 - scraper for album href
 - lookup in spotify

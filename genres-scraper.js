@@ -3,4 +3,4 @@ var x = Xray();
 
 var genres = 'http://rateyourmusic.com/rgenre/';
 
- x(genres, ['.genre']).write('genres.json');
+ x(genres, ['.genre']).write('out/genres.json');
