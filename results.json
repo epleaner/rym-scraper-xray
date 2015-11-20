@@ -1,0 +1,802 @@
+[
+  {
+    "artist": "DJ Shadow",
+    "album": "Endtroducing.....",
+    "rank": "1",
+    "year": "(1996)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 4.11 | Ratings: 11,049 | Reviews (total): 447"
+  },
+  {
+    "artist": "J Dilla",
+    "album": "Donuts",
+    "rank": "2",
+    "year": "(2006)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.98 | Ratings: 5,562 | Reviews (total): 246"
+  },
+  {
+    "artist": "Nujabes",
+    "album": "Modal Soul",
+    "rank": "3",
+    "year": "(2005)",
+    "genres": "Jazz Rap",
+    "ratings": "Avg rating: 3.74 | Ratings: 1,458 | Reviews (total): 32"
+  },
+  {
+    "artist": "Nujabes",
+    "album": "Metaphorical Music",
+    "rank": "4",
+    "year": "(2003)",
+    "genres": "Jazz Rap",
+    "ratings": "Avg rating: 3.71 | Ratings: 1,946 | Reviews (total): 46"
+  },
+  {
+    "artist": "Madvillain",
+    "album": "Madvillainy Instrumentals",
+    "rank": "5",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.84 | Ratings: 185 | Reviews (total): 3"
+  },
+  {
+    "artist": "Beat Konducta",
+    "album": "Vol. 5: Dil Cosby Suite",
+    "rank": "6",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.75 | Ratings: 468 | Reviews (total): 22"
+  },
+  {
+    "artist": "Lil Ugly Mane",
+    "album": "Third Side of Tape",
+    "rank": "7",
+    "year": "(2015)",
+    "genres": "Experimental Hip Hop",
+    "ratings": "Avg rating: 3.68 | Ratings: 1,156 | Reviews (total): 49"
+  },
+  {
+    "artist": "Madlib",
+    "album": "Shades of Blue: Madlib Invades Blue Note",
+    "rank": "8",
+    "year": "(2003)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.67 | Ratings: 1,825 | Reviews (total): 47"
+  },
+  {
+    "artist": "Various Artists",
+    "album": "Jet Set Radio Original Soundtrack",
+    "rank": "9",
+    "year": "(2001)",
+    "genres": "Video Game Music",
+    "ratings": "Avg rating: 3.80 | Ratings: 172 | Reviews (total): 8"
+  },
+  {
+    "artist": "RJD2",
+    "album": "Deadringer",
+    "rank": "10",
+    "year": "(2002)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.66 | Ratings: 1,779 | Reviews (total): 62"
+  },
+  {
+    "artist": " Jay Dee",
+    "album": "Vol.2: Vintage",
+    "rank": "11",
+    "year": "(2003)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.72 | Ratings: 343 | Reviews (total): 17"
+  },
+  {
+    "artist": "Quasimoto",
+    "album": "The Unseen: Instrumentals",
+    "rank": "12",
+    "year": "(2000)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.85 | Ratings: 102 | Reviews (total): 1"
+  },
+  {
+    "artist": "Nujabes",
+    "album": "Samurai Champloo Music Record: Departure",
+    "rank": "13",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.68 | Ratings: 375 | Reviews (total): 13"
+  },
+  {
+    "artist": "DJ Shadow",
+    "album": "The Private Press",
+    "rank": "14",
+    "year": "(2002)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.57 | Ratings: 2,179 | Reviews (total): 87"
+  },
+  {
+    "artist": "Cannibal Ox",
+    "album": "El-P Presents: Cannibal Oxtrumentals",
+    "rank": "15",
+    "year": "(2002)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.77 | Ratings: 113 | Reviews (total): 2"
+  },
+  {
+    "artist": "Pete Rock",
+    "album": "PeteStrumentals",
+    "rank": "16",
+    "year": "(2001)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.64 | Ratings: 391 | Reviews (total): 16"
+  },
+  {
+    "artist": "Force of Nature",
+    "album": "Samurai Champloo Music Record: Impression",
+    "rank": "17",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.62 | Ratings: 252 | Reviews (total): 3"
+  },
+  {
+    "artist": "Lil Ugly Mane",
+    "album": "Three Sided Tape Volume One",
+    "rank": "18",
+    "year": "(2013)",
+    "genres": "Experimental Hip Hop",
+    "ratings": "Avg rating: 3.59 | Ratings: 417 | Reviews (total): 12"
+  },
+  {
+    "artist": "Dr. Octagon",
+    "album": "Instrumentalyst (Octagon Beats)",
+    "rank": "19",
+    "year": "(1996)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.74 | Ratings: 100 | Reviews (total): 3"
+  },
+  {
+    "artist": "Blockhead",
+    "album": "Music by Cavelight",
+    "rank": "20",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.55 | Ratings: 691 | Reviews (total): 19"
+  },
+  {
+    "artist": "Blue Sky Black Death",
+    "album": "Late Night Cinema",
+    "rank": "21",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.51 | Ratings: 553 | Reviews (total): 29"
+  },
+  {
+    "artist": "Damu the Fudgemunk",
+    "album": "How It Should Sound Volume 1 & 2",
+    "rank": "22",
+    "year": "(2010)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.61 | Ratings: 202 | Reviews (total): 9"
+  },
+  {
+    "artist": "Blue Sky Black Death",
+    "album": "The Holocaust Instrumentals",
+    "rank": "23",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.69 | Ratings: 69 | Reviews (total): 4"
+  },
+  {
+    "artist": "Madlib",
+    "album": "Piñata Beats",
+    "rank": "24",
+    "year": "(2014)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.60 | Ratings: 199 | Reviews (total): 2"
+  },
+  {
+    "artist": "Dr. Dre",
+    "album": "2001: Instrumentals Only",
+    "rank": "25",
+    "year": "(1999)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.63 | Ratings: 119 | Reviews (total): 6"
+  },
+  {
+    "artist": "Oh No",
+    "album": "Dr. No's Oxperiment",
+    "rank": "26",
+    "year": "(2007)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.53 | Ratings: 416 | Reviews (total): 29"
+  },
+  {
+    "artist": "Wax Tailor",
+    "album": "Tales of the Forgotten Melodies",
+    "rank": "27",
+    "year": "(2005)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.52 | Ratings: 383 | Reviews (total): 9"
+  },
+  {
+    "artist": "Blue Sky Black Death",
+    "album": "NOIR",
+    "rank": "28",
+    "year": "(2011)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.49 | Ratings: 703 | Reviews (total): 28"
+  },
+  {
+    "artist": "RZA",
+    "album": "Ghost Dog: The Way of the Samurai",
+    "rank": "29",
+    "year": "(1999)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.54 | Ratings: 268 | Reviews (total): 9"
+  },
+  {
+    "artist": "The Gaslamp Killer",
+    "album": "I Spit on Your Grave",
+    "rank": "30",
+    "year": "(2008)",
+    "genres": "Turntablism",
+    "ratings": "Avg rating: 3.51 | Ratings: 296 | Reviews (total): 20"
+  },
+  {
+    "artist": "Oh No",
+    "album": "Oh No vs. Now Again",
+    "rank": "31",
+    "year": "(2009)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.66 | Ratings: 95 | Reviews (total): 7"
+  },
+  {
+    "artist": "Metal Fingers",
+    "album": "Special Herbs 9+0",
+    "rank": "32",
+    "year": "(2005)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.58 | Ratings: 191 | Reviews (total): 6"
+  },
+  {
+    "artist": "DJ Krush",
+    "album": "寂 Jaku",
+    "rank": "33",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.51 | Ratings: 467 | Reviews (total): 11"
+  },
+  {
+    "artist": "Metal Fingers",
+    "album": "Special Herbs, Vols. 1&2",
+    "rank": "34",
+    "year": "(2002)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.53 | Ratings: 313 | Reviews (total): 4"
+  },
+  {
+    "artist": "DJ Krush",
+    "album": "Meiso",
+    "rank": "35",
+    "year": "(1995)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.52 | Ratings: 394 | Reviews (total): 6"
+  },
+  {
+    "artist": "El-P",
+    "album": "Fandam Plus",
+    "rank": "36",
+    "year": "(2002)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.71 | Ratings: 84 | Reviews (total): 0"
+  },
+  {
+    "artist": "Kno",
+    "album": "Death Is Silent Instrumentals",
+    "rank": "37",
+    "year": "(2010)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.59 | Ratings: 106 | Reviews (total): 3"
+  },
+  {
+    "artist": "Beat Konducta",
+    "album": "Beat Konducta Vol. 1: Movie Scenes",
+    "rank": "38",
+    "year": "(2005)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.53 | Ratings: 228 | Reviews (total): 13"
+  },
+  {
+    "artist": "Noon",
+    "album": "Bleak Output",
+    "rank": "39",
+    "year": "(2000)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.58 | Ratings: 135 | Reviews (total): 1"
+  },
+  {
+    "artist": "Aim",
+    "album": "Cold Water Music",
+    "rank": "40",
+    "year": "(1999)",
+    "genres": "Trip Hop",
+    "ratings": "Avg rating: 3.51 | Ratings: 281 | Reviews (total): 15"
+  },
+  {
+    "artist": "DJ Krush",
+    "album": "Strictly Turntablized",
+    "rank": "41",
+    "year": "(1994)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.49 | Ratings: 320 | Reviews (total): 17"
+  },
+  {
+    "artist": "Blue Sky Black Death",
+    "album": "A Heap of Broken Images",
+    "rank": "42",
+    "year": "(2006)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.49 | Ratings: 221 | Reviews (total): 11"
+  },
+  {
+    "artist": "Dday One",
+    "album": "Heavy Migration",
+    "rank": "43",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.61 | Ratings: 96 | Reviews (total): 1"
+  },
+  {
+    "artist": "Fat Jon",
+    "album": "Wave Motion",
+    "rank": "44",
+    "year": "(2001)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.56 | Ratings: 89 | Reviews (total): 5"
+  },
+  {
+    "artist": "Metal Fingers",
+    "album": "Special Herbs, Vol. 1",
+    "rank": "45",
+    "year": "(2001)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.52 | Ratings: 208 | Reviews (total): 2"
+  },
+  {
+    "artist": "Fat Jon",
+    "album": "Afterthought",
+    "rank": "46",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.64 | Ratings: 81 | Reviews (total): 1"
+  },
+  {
+    "artist": "DJ Shadow",
+    "album": "Excessive Ephemera",
+    "rank": "47",
+    "year": "(2005)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.62 | Ratings: 85 | Reviews (total): 1"
+  },
+  {
+    "artist": "Boom Bip",
+    "album": "Seed to Sun",
+    "rank": "48",
+    "year": "(2002)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.51 | Ratings: 217 | Reviews (total): 9"
+  },
+  {
+    "artist": "Madlib",
+    "album": "Madlib Medicine Show: No. 3 - Beat Konducta in Africa",
+    "rank": "49",
+    "year": "(2010)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.45 | Ratings: 267 | Reviews (total): 14"
+  },
+  {
+    "artist": "Damu the Fudgemunk",
+    "album": "Spare Time",
+    "rank": "50",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.57 | Ratings: 107 | Reviews (total): 5"
+  },
+  {
+    "artist": "DJ Krush",
+    "album": "Krush",
+    "rank": "51",
+    "year": "(1994)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.50 | Ratings: 250 | Reviews (total): 7"
+  },
+  {
+    "artist": "Toshinori Kondo",
+    "album": "記憶 (Ki-Oku)",
+    "rank": "52",
+    "year": "(1996)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.48 | Ratings: 311 | Reviews (total): 13"
+  },
+  {
+    "artist": "RJD2",
+    "album": "Since We Last Spoke",
+    "rank": "53",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.42 | Ratings: 658 | Reviews (total): 22"
+  },
+  {
+    "artist": "DJ Spooky",
+    "album": "Songs of a Dead Dreamer",
+    "rank": "54",
+    "year": "(1996)",
+    "genres": "Illbient",
+    "ratings": "Avg rating: 3.45 | Ratings: 277 | Reviews (total): 14"
+  },
+  {
+    "artist": "GZA/Genius",
+    "album": "Liquid Swords: Instrumentals",
+    "rank": "55",
+    "year": "(2007)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.85 | Ratings: 32 | Reviews (total): 0"
+  },
+  {
+    "artist": "Onra",
+    "album": "Chinoiseries",
+    "rank": "56",
+    "year": "(2007)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.40 | Ratings: 479 | Reviews (total): 15"
+  },
+  {
+    "artist": "Metal Fingers",
+    "album": "Special Herbs 7,8",
+    "rank": "57",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.50 | Ratings: 194 | Reviews (total): 4"
+  },
+  {
+    "artist": "Company Flow",
+    "album": "Little Johnny From the Hospitul: Breaks and Instrumentuls Vol. 1",
+    "rank": "58",
+    "year": "(1999)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.45 | Ratings: 236 | Reviews (total): 12"
+  },
+  {
+    "artist": "Lil Ugly Mane",
+    "album": "Three Sided Tape Volume Two",
+    "rank": "59",
+    "year": "(2013)",
+    "genres": "Experimental Hip Hop",
+    "ratings": "Avg rating: 3.43 | Ratings: 276 | Reviews (total): 11"
+  },
+  {
+    "artist": "Oddisee",
+    "album": "Traveling Man",
+    "rank": "60",
+    "year": "(2010)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.50 | Ratings: 141 | Reviews (total): 5"
+  },
+  {
+    "artist": "Sixtoo",
+    "album": "Chewing on Glass & Other Miracle Cures",
+    "rank": "61",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.49 | Ratings: 160 | Reviews (total): 4"
+  },
+  {
+    "artist": "Fat Jon",
+    "album": "Repaint Tomorrow",
+    "rank": "62",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.60 | Ratings: 72 | Reviews (total): 5"
+  },
+  {
+    "artist": "Fat Jon",
+    "album": "Lightweight Heavy",
+    "rank": "63",
+    "year": "(2002)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.51 | Ratings: 105 | Reviews (total): 5"
+  },
+  {
+    "artist": "Uyama Hiroto",
+    "album": "A Son of the Sun",
+    "rank": "64",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.44 | Ratings: 205 | Reviews (total): 4"
+  },
+  {
+    "artist": "Cut Chemist",
+    "album": "The Audience's Listening",
+    "rank": "65",
+    "year": "(2006)",
+    "genres": "Turntablism",
+    "ratings": "Avg rating: 3.42 | Ratings: 367 | Reviews (total): 10"
+  },
+  {
+    "artist": "Insight",
+    "album": "Updated Software V. 2.5",
+    "rank": "66",
+    "year": "(2002)",
+    "genres": "East Coast Hip Hop",
+    "ratings": "Avg rating: 3.60 | Ratings: 60 | Reviews (total): 4"
+  },
+  {
+    "artist": "DJ Krush",
+    "album": "Zen",
+    "rank": "67",
+    "year": "(2001)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.41 | Ratings: 345 | Reviews (total): 12"
+  },
+  {
+    "artist": "The Herbaliser",
+    "album": "Something Wicked This Way Comes",
+    "rank": "68",
+    "year": "(2002)",
+    "genres": "Hip Hop",
+    "ratings": "Avg rating: 3.46 | Ratings: 224 | Reviews (total): 7"
+  },
+  {
+    "artist": "Odd Nosdam",
+    "album": "Burner",
+    "rank": "69",
+    "year": "(2005)",
+    "genres": "Experimental Hip Hop",
+    "ratings": "Avg rating: 3.47 | Ratings: 177 | Reviews (total): 6"
+  },
+  {
+    "artist": "Fat Jon Maurice Galactica",
+    "album": "Humanoid Erotica",
+    "rank": "70",
+    "year": "(2001)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.54 | Ratings: 92 | Reviews (total): 4"
+  },
+  {
+    "artist": "Pete Rock",
+    "album": "The Surviving Elements (From Soul Survivor II Sessions)",
+    "rank": "71",
+    "year": "(2005)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.55 | Ratings: 108 | Reviews (total): 4"
+  },
+  {
+    "artist": "Lordmaster DJ SK the Subterranean Suspect",
+    "album": "Cold Rock Sex Bug",
+    "rank": "72",
+    "year": "(2015)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.66 | Ratings: 48 | Reviews (total): 2"
+  },
+  {
+    "artist": "Nujabes",
+    "album": "Spiritual State",
+    "rank": "73",
+    "year": "(2011)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.37 | Ratings: 583 | Reviews (total): 14"
+  },
+  {
+    "artist": "Nas",
+    "album": "Illmatic: Instrumentals",
+    "rank": "74",
+    "year": "(1994)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 4.11 | Ratings: 28 | Reviews (total): 0"
+  },
+  {
+    "artist": "Blockhead",
+    "album": "Downtown Science",
+    "rank": "75",
+    "year": "(2005)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.42 | Ratings: 279 | Reviews (total): 6"
+  },
+  {
+    "artist": "Tobacco",
+    "album": "Fucked Up Friends",
+    "rank": "76",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.36 | Ratings: 652 | Reviews (total): 22"
+  },
+  {
+    "artist": "Dr Who Dat?",
+    "album": "Beat Journey",
+    "rank": "77",
+    "year": "(2006)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.57 | Ratings: 75 | Reviews (total): 1"
+  },
+  {
+    "artist": "Metal Fingers",
+    "album": "Special Herbs, Volumes 3-4",
+    "rank": "78",
+    "year": "(2003)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.43 | Ratings: 193 | Reviews (total): 3"
+  },
+  {
+    "artist": "Blockhead",
+    "album": "The Music Scene",
+    "rank": "79",
+    "year": "(2009)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.39 | Ratings: 319 | Reviews (total): 11"
+  },
+  {
+    "artist": "Daedelus",
+    "album": "Denies the Day's Demise",
+    "rank": "80",
+    "year": "(2006)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.41 | Ratings: 310 | Reviews (total): 10"
+  },
+  {
+    "artist": "Knxwledge",
+    "album": "Hud Dreems",
+    "rank": "81",
+    "year": "(2015)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.39 | Ratings: 288 | Reviews (total): 8"
+  },
+  {
+    "artist": "Metaform",
+    "album": "Standing on the Shoulders of Giants",
+    "rank": "82",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.45 | Ratings: 143 | Reviews (total): 10"
+  },
+  {
+    "artist": "DJ Krush",
+    "album": "覚醒 (Kakusei)",
+    "rank": "83",
+    "year": "(1998)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.41 | Ratings: 323 | Reviews (total): 10"
+  },
+  {
+    "artist": "DJ Krush",
+    "album": "MiLight",
+    "rank": "84",
+    "year": "(1997)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.43 | Ratings: 195 | Reviews (total): 6"
+  },
+  {
+    "artist": "Beat Konducta",
+    "album": "Vol. 6: Dil Withers Suite",
+    "rank": "85",
+    "year": "(2008)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.43 | Ratings: 192 | Reviews (total): 10"
+  },
+  {
+    "artist": "Apollo Brown",
+    "album": "Clouds",
+    "rank": "86",
+    "year": "(2011)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.38 | Ratings: 307 | Reviews (total): 11"
+  },
+  {
+    "artist": "J Dilla",
+    "album": "Jay Stay Paid",
+    "rank": "87",
+    "year": "(2009)",
+    "genres": "Hip Hop",
+    "ratings": "Avg rating: 3.35 | Ratings: 514 | Reviews (total): 27"
+  },
+  {
+    "artist": "Daedelus",
+    "album": "Exquisite Corpse",
+    "rank": "88",
+    "year": "(2005)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.42 | Ratings: 216 | Reviews (total): 5"
+  },
+  {
+    "artist": "J Dilla",
+    "album": "The Shining: Instrumentals",
+    "rank": "89",
+    "year": "(2006)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.47 | Ratings: 95 | Reviews (total): 1"
+  },
+  {
+    "artist": "Large Pro",
+    "album": "Beatz Volume 1",
+    "rank": "90",
+    "year": "(2006)",
+    "genres": "East Coast Hip Hop",
+    "ratings": "Avg rating: 3.57 | Ratings: 59 | Reviews (total): 4"
+  },
+  {
+    "artist": "Metal Fingers",
+    "album": "Special Herbs, Vol. 5 & 6",
+    "rank": "91",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.40 | Ratings: 236 | Reviews (total): 6"
+  },
+  {
+    "artist": "Sixtoo",
+    "album": "Duration",
+    "rank": "92",
+    "year": "(2002)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.51 | Ratings: 71 | Reviews (total): 1"
+  },
+  {
+    "artist": "Deltron 3030",
+    "album": "Deltron 3030: The Instrumentals",
+    "rank": "93",
+    "year": "(2001)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.49 | Ratings: 91 | Reviews (total): 3"
+  },
+  {
+    "artist": "Wagon Christ",
+    "album": "Tally Ho!",
+    "rank": "94",
+    "year": "(1998)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.43 | Ratings: 187 | Reviews (total): 6"
+  },
+  {
+    "artist": "The Herbaliser",
+    "album": "Take London",
+    "rank": "95",
+    "year": "(2005)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.46 | Ratings: 159 | Reviews (total): 2"
+  },
+  {
+    "artist": "RJD2",
+    "album": "In Rare Form: Unreleased Instrumentals",
+    "rank": "96",
+    "year": "(2004)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.56 | Ratings: 80 | Reviews (total): 2"
+  },
+  {
+    "artist": "Prince Paul",
+    "album": "Psychoanalysis (What Is It?)",
+    "rank": "97",
+    "year": "(1996)",
+    "genres": "East Coast Hip Hop",
+    "ratings": "Avg rating: 3.44 | Ratings: 128 | Reviews (total): 11"
+  },
+  {
+    "artist": "DJ Q-Bert",
+    "album": "Wave Twisters, Episode 7 Million: Sonic Wars Within the Protons",
+    "rank": "98",
+    "year": "(1998)",
+    "genres": "Turntablism",
+    "ratings": "Avg rating: 3.38 | Ratings: 171 | Reviews (total): 8"
+  },
+  {
+    "artist": "Beat Konducta",
+    "album": "Beat Konducta Vol. 2: Movie Scenes, The Sequel",
+    "rank": "99",
+    "year": "(2006)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.40 | Ratings: 167 | Reviews (total): 7"
+  },
+  {
+    "artist": "Joe  Beats",
+    "album": "Diverse Recourse",
+    "rank": "100",
+    "year": "(2007)",
+    "genres": "Instrumental Hip Hop",
+    "ratings": "Avg rating: 3.58 | Ratings: 52 | Reviews (total): 4"
+  }
+]

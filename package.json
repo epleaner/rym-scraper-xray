@@ -1,0 +1,23 @@
+{
+  "name": "rym-scraper-xray",
+  "version": "1.0.0",
+  "description": "RateYourMusic scraper with x-ray",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epleaner/rym-scraper-xray.git"
+  },
+  "author": "Eli Pleaner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epleaner/rym-scraper-xray/issues"
+  },
+  "homepage": "https://github.com/epleaner/rym-scraper-xray#readme",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "x-ray": "^2.0.2"
+  }
+}

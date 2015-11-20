@@ -1,0 +1,5 @@
+- scrape list for .album
+- scraper for album href
+- lookup in spotify
+- like/dislike
+- NN for recommendations based on likes/dislikes
